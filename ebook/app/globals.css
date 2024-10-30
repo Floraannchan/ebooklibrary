@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #f2dfce;
+}
+h1 h2 h3 h4 p span li a {
+}
